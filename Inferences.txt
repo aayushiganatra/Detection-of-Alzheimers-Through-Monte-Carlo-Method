@@ -1,0 +1,27 @@
+AfterMCMC
+-The given graph is combined graph of Death Rates, before and after MCMC process.
+Here, it clearly depicts 2 individual scatter graphs that represent the probabilities of the Death Rate according to each year, repectively.
+
+AfterMCMC_AGE
+-It is a graph of Death Rate plotted against the age (Parameter) of 1000 people.
+The above graph constitutes of 2 individual graphs that plot the probabilities of the Death Rate against Age of the patients tested.
+
+CDR_Prob
+-Probability distribution of MMSE over the Stages of Alzheimer's is what the graph given, depicts.
+Here, the data given by the user regarding its CDR (Clinical Dementia Rating) values will result into this graph, wherein we calculate the probability of the person being in which state of Alzheimer's, at the present.
+
+DeathRate
+-It is known as the Death Rate graph wherein we plot the rate against the years of the given range.
+Using the dataset we found regarding the Death count in USA for the past 14 years, we plot the probabilities of Death Rate in terms of years.
+
+
+DeathRate_Age
+-It is the Death Rate against the Age scatter graph.
+Now, the above graph shows a scatter distribution of the Death Rate versus the age of the patient, that has already been mentioned.
+It calculates probabilities that are based on the age of the particular person.
+
+
+MMSE_Probability
+-Probability distribution of MMSE over the Stages of Alzheimer's is what the graph given, depicts.
+Here, the data given by the user regarding its MMSE values will result into this graph, wherein we calculate the probability of the person being in which state of Alzheimer's, at the present.
+
